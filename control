@@ -11,7 +11,7 @@ Vcs-Git: https://salsa.debian.org/rfinnie/robotfindskitten-pkg-debian.git
 
 Package: robotfindskitten
 Architecture: any
-Depends: dpkg (>= 1.15.4) | install-info, ${misc:Depends}, ${shlibs:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Zen Simulation of robot finding kitten
  In this simulation, you play the part of robot. Your task is to
  complete the simulation by finding kitten, as is your destiny, and

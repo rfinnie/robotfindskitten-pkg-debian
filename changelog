@@ -1,3 +1,10 @@
+robotfindskitten (2.8284271.702-2) UNRELEASED; urgency=medium
+
+  * Remove dep on "dpkg (>= 1.15.4) | install-info"
+    (Closes: #1013853).
+
+ -- Ryan Finnie <ryan@finnie.org>  Fri, 25 Oct 2024 23:48:01 +0200
+
 robotfindskitten (2.8284271.702-1) unstable; urgency=medium
 
   * New upstream release
